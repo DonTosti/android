@@ -44,7 +44,7 @@ public class SettingsView {
 	@AndroidFindBy(name = "Delete account")
 	private AndroidElement deleteAccountElement;
 
-	@AndroidFindBy(name = "Change password")
+	@AndroidFindBy(name = "Change WW aanpassen")
 	private AndroidElement changePasswordElement;
 
 <<<<<<< HEAD
